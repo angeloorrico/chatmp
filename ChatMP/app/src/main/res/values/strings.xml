@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ChatMP</string>
+
+    <string name="informe_usuario">Informe o seu usuário:</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_usuario">UsuarioActivity</string>
+</resources>
